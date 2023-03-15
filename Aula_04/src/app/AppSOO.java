@@ -1,3 +1,5 @@
+package app;
+
 public class AppSOO {
 
     public static void main(String[] args) {
