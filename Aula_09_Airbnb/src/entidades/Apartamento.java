@@ -20,7 +20,7 @@ public class Apartamento extends Propriedade {
 
     @Override
     public void mostrarDetalhes() {
-        System.out.println("Identificação: "+ getId());
+        System.out.println("Identificador: "+ getId());
         System.out.println("Endereço: " + getEndereco());
         System.out.println("Número de Quartos: " + getNumQuarto());
         System.out.println("Valor do Aluguel: " + getValorAluguel());
